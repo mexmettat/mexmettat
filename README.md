@@ -23,9 +23,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **DocGuard**, a smart mobile app for tracking official document expirations.
-- 🌱 I’m deeply focused on **Artificial Intelligence, Computer Vision, and Mobile Development (Flutter)**.
-- ⚡ **Fun fact:** I believe the best way to predict the future is to code it!
+- I am a final-year Computer Engineering student at Düzce University, deeply committed to bridging the gap between academic theory and professional application. My technical focus lies at the intersection of Artificial Intelligence, Deep Learning, and Full-Stack Development. I have hands-on experience developing diverse solutions, ranging from a deep learning-based Brain Hemorrhage Detection system using CNNs to a robust, offline wake-word detection system called "Hey Pakize".  Beyond coding, I am an active leader and collaborator, having served on the management board of the Düzce University Artificial Intelligence and Technology Club. My professional journey includes impactful internships at Magna Automotive and Rota Teknik, where I developed IT asset tracking systems and web-based management platforms. Currently, I am focused on building practical and sustainable software, such as DocGuard, to solve real-world challenges. I believe the best way to predict the future is to code it! 
 
 ---
 
