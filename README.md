@@ -25,7 +25,7 @@
 
 - I am a final-year student in the English-taught Computer Engineering department at Düzce University (GPA: 3.15), deeply committed to bridging the gap between academic theory and professional application. My technical focus lies at the intersection of Artificial Intelligence, Computer Vision, Machine Learning, and Mobile Application Development (Flutter).
 - Beyond coding, I am an active leader and collaborator, having served on the management board of the Düzce University Artificial Intelligence and Technology Club. In December 2025, I was proudly selected as one of 1,500 scholars for the Google Turkey and Entrepreneurship Foundation Artificial Intelligence and Technology Academy.
-- My professional journey includes impactful internships at Magna Automotive and Rota Teknik, where I developed IT asset tracking systems and web-based management platforms. Currently, I am focused on building practical, sustainable software solutions and preparing to pursue a Master of Science in Computer Science in Germany, with a strong interest in the University of Bonn.
+- My professional journey includes impactful internships at Magna Automotive and Rota Teknik, where I developed IT asset tracking systems and web-based management platforms. Currently, I am focused on building practical, sustainable software solutions.
 
 ---
 
