@@ -23,19 +23,28 @@
 
 ### 👨‍💻 About Me
 
-- I am a final-year Computer Engineering student at Düzce University, deeply committed to bridging the gap between academic theory and professional application. My technical focus lies at the intersection of Artificial Intelligence, Deep Learning, and Full-Stack Development. I have hands-on experience developing diverse solutions, ranging from a deep learning-based Brain Hemorrhage Detection system using CNNs to a robust, offline wake-word detection system called "Hey Pakize".
-
-- Beyond coding, I am an active leader and collaborator, having served on the management board of the Düzce University Artificial Intelligence and Technology Club. My professional journey includes impactful internships at Magna Automotive and Rota Teknik, where I developed IT asset tracking systems and web-based management platforms. Currently, I am focused on building practical and sustainable software, such as DocGuard, to solve real-world challenges.
+- I am a final-year student in the English-taught Computer Engineering department at Düzce University (GPA: 3.15), deeply committed to bridging the gap between academic theory and professional application. My technical focus lies at the intersection of Artificial Intelligence, Computer Vision, Machine Learning, and Mobile Application Development (Flutter).
+- Beyond coding, I am an active leader and collaborator, having served on the management board of the Düzce University Artificial Intelligence and Technology Club. In December 2025, I was proudly selected as one of 1,500 scholars for the Google Turkey and Entrepreneurship Foundation Artificial Intelligence and Technology Academy.
+- My professional journey includes impactful internships at Magna Automotive and Rota Teknik, where I developed IT asset tracking systems and web-based management platforms. Currently, I am focused on building practical, sustainable software solutions and preparing to pursue a Master of Science in Computer Science in Germany, with a strong interest in the University of Bonn.
 
 ---
 
 ### 🚀 Featured Projects
 
-> **📂 DocGuard** > A cross-platform mobile application built with Flutter. It tracks the expiration dates of critical documents (IDs, warranties, medical prescriptions) and provides smart, scheduled push notifications.
+> **📂 DocGuard** 
+> A cross-platform mobile application built with Flutter that securely tracks the expiration dates of critical documents. It features AES-256 encryption and utilizes Google ML Kit for on-device OCR to enable smart date detection and scheduled push notifications.
 
-> **🎙️ Hey Pakize** > An end-to-end Machine Learning pipeline designed for real-time wake-word detection directly from microphone input.
+> **🤖 Omni Agent** 
+> A 100% autonomous, LLM-powered customer and order management ecosystem that handles WhatsApp inquiries for businesses. Unlike traditional rule-based chatbots, it acts as a smart digital assistant capable of understanding natural language intent, utilizing Function Calling for backend database interactions, and communicating with empathy.
 
-> **⚙️ ML Model Optimizer** > Evaluated and optimized 5 different classification models (SVM, KNN, Random Forest, Gradient Boosting) to achieve maximum F1-Score performance.
+> **🎙️ Hey Pakize** 
+> An end-to-end Machine Learning pipeline designed for real-time wake-word detection directly from microphone input. Built with Python, it utilizes MFCC feature extraction alongside machine learning models (SVM, Random Forest) and features a Tkinter-based GUI.
+
+> **🛡️ DDoS Attack Detection** 
+> A machine learning analysis project focused on detecting DDoS attacks using advanced network traffic data transformation and literature-backed classification techniques.
+
+> **🧠 ML Model Optimizer & CNN Implementations** 
+> Evaluated and optimized multiple classification models (SVM, KNN, Random Forest, Gradient Boosting) to achieve maximum F1-Score performance, alongside hands-on experience developing deep learning-based Brain Hemorrhage Detection systems using CNNs.
 
 ---
 
